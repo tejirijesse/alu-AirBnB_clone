@@ -26,3 +26,4 @@ classes = {
     "Place": Place,
     "Review": Review
 }
+
