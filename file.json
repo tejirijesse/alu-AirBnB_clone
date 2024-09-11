@@ -1,0 +1,20 @@
+{
+  "User.ffb2047c-29b2-40c6-b14d-ceeaa9cd5778": {
+    "id": "ffb2047c-29b2-40c6-b14d-ceeaa9cd5778",
+    "created_at": "2024-09-11T09:35:45.363799",
+    "updated_at": "2024-09-11T09:35:45.363827",
+    "__class__": "User"
+  },
+  "BaseModel.3618b2bf-19cc-453e-8dfb-83b277d272eb": {
+    "id": "3618b2bf-19cc-453e-8dfb-83b277d272eb",
+    "created_at": "2024-09-11T09:36:15.273538",
+    "updated_at": "2024-09-11T09:36:15.273555",
+    "__class__": "BaseModel"
+  },
+  "City.52deb1a6-eb6c-4fbd-a02f-796da97267fb": {
+    "id": "52deb1a6-eb6c-4fbd-a02f-796da97267fb",
+    "created_at": "2024-09-11T09:36:53.032121",
+    "updated_at": "2024-09-11T09:36:53.032139",
+    "__class__": "City"
+  }
+}
