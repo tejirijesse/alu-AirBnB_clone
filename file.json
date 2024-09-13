@@ -16,5 +16,35 @@
     "created_at": "2024-09-11T09:36:53.032121",
     "updated_at": "2024-09-11T09:36:53.032139",
     "__class__": "City"
+  },
+  "State.fb12ec3b-df07-46aa-89a7-4ccf98a4fea2": {
+    "id": "fb12ec3b-df07-46aa-89a7-4ccf98a4fea2",
+    "created_at": "2024-09-11T10:05:22.040320",
+    "updated_at": "2024-09-11T10:05:22.040336",
+    "__class__": "State"
+  },
+  "Amenity.6d7bb83b-47f9-4ca1-8446-7035e8fce07b": {
+    "id": "6d7bb83b-47f9-4ca1-8446-7035e8fce07b",
+    "created_at": "2024-09-11T10:06:17.631401",
+    "updated_at": "2024-09-11T10:06:17.631419",
+    "__class__": "Amenity"
+  },
+  "Place.fbf4c9a9-0439-4ed0-b17a-7365153c6062": {
+    "id": "fbf4c9a9-0439-4ed0-b17a-7365153c6062",
+    "created_at": "2024-09-11T10:06:43.496707",
+    "updated_at": "2024-09-11T10:06:43.496724",
+    "__class__": "Place"
+  },
+  "User.71c554ef-f441-4e56-aa88-1e3fef2d38c1": {
+    "id": "71c554ef-f441-4e56-aa88-1e3fef2d38c1",
+    "created_at": "2024-09-11T10:09:08.540585",
+    "updated_at": "2024-09-11T10:09:08.540601",
+    "__class__": "User"
+  },
+  "User.fb1beec3-d83a-4621-b7a0-0d983ab88752": {
+    "id": "fb1beec3-d83a-4621-b7a0-0d983ab88752",
+    "created_at": "2024-09-11T10:11:53.121004",
+    "updated_at": "2024-09-11T10:11:53.121021",
+    "__class__": "User"
   }
 }

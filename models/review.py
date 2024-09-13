@@ -24,4 +24,3 @@ class Review(BaseModel):
         # self.place_id = Review.place_id
         # self.user_id = Review.user_id
         # self.text = Review.text
-
