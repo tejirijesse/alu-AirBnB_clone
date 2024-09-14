@@ -54,6 +54,7 @@ City
 Amenity
 Place
 Review
+
 Authors
 Oghenetejiri Jesse - o.jesse1@alustudent.com
-Makuochi Prince Okoye 
+Makuochi Prince Okoye - Makuochiokoye@gmail.com
